@@ -17,6 +17,10 @@ Challenge:
 
 ###### School Summary Effects
 
+Challenge:
+
+![alt text](https://github.com/CCoelho372/School_District_Analysis/blob/main/List_Schools.PNG)
+
 
 ###### Thomas High School's Performance Comparison
 
