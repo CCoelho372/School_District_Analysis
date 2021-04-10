@@ -12,21 +12,18 @@ The purpose of this analysis was to determine the effects of Thomas' High School
 
 Challenge:
 
-![alt text]
+(https://github.com/CCoelho372/School_District_Analysis/blob/main/District_Challenge.PNG)
 
 
 ###### School Summary Effects
 
 Challenge:
 
-![alt text]
-
 
 ###### Thomas High School's Performance Comparison
 
 Challenge:
 
-![alt text]
 
 
 ###### Ninth-Grade Scores Replacement Effects
@@ -37,29 +34,24 @@ Challenge:
 
 Math:
 
-![alt text]
 
 Reading:
 
-![alt text]
 
 **Scores by School Spending**
 
 Challenge:
 
-![alt text]
 
 **Scores by School Size**
 
 Challenge:
 
-![alt text]
 
 **Scores by School Type**
 
 Challenge:
 
-![alt text]
 
 
 ## Summary
