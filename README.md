@@ -17,9 +17,6 @@ Challenge:
 
 ###### School Summary Effects
 
-Challenge:
-
-![alt text](https://github.com/CCoelho372/School_District_Analysis/blob/main/School_Summary_Challenge.PNG)
 
 ###### Thomas High School's Performance Comparison
 
@@ -32,11 +29,33 @@ Challenge:
 
 **Math and Reading Scores by Grade**
 
+Challenge: 
+
+Math:
+
+![alt text](https://github.com/CCoelho372/School_District_Analysis/blob/main/Math_Scores_Grade_Challenge.PNG)
+
+Reading:
+
+![alt text](https://github.com/CCoelho372/School_District_Analysis/blob/main/Reading_Scores_Grade_Challenge.PNG)
+
 **Scores by School Spending**
+
+Challenge:
+
+![alt text](https://github.com/CCoelho372/School_District_Analysis/blob/main/Spending_Comp_Challenge.PNG)
 
 **Scores by School Size**
 
+Challenge:
+
+![alt text](https://github.com/CCoelho372/School_District_Analysis/blob/main/School_Size_Comp_Challenge.PNG)
+
 **Scores by School Type**
+
+Challenge:
+
+![alt text](https://github.com/CCoelho372/School_District_Analysis/blob/main/School_Type_Comp_Challenge.PNG)
 
 
 ## Summary
